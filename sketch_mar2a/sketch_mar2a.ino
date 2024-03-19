@@ -23,13 +23,7 @@ Serial.println(100);
 Serial.print("CONTADOR:     ");
 Serial.println(cont);
 
-
 digitalWrite(LED1,HIGH);
   delay(100);
   digitalWrite(LED1,LOW);
- 
- 
-
-
-
 }
