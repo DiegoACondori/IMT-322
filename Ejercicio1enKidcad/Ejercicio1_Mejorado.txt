@@ -1,0 +1,33 @@
+Info: Procesando el símbolo 'C1:Capacitor_SMD:CP_Elec_5x3.9'.
+Info: Procesando el símbolo 'C2:Capacitor_SMD:C_0504_1310Metric_Pad0.83x1.28mm_HandSolder'.
+Info: Procesando el símbolo 'C3:Capacitor_SMD:CP_Elec_5x3.9'.
+Info: Procesando el símbolo 'C4:Capacitor_SMD:C_Elec_4x5.8'.
+Info: Procesando el símbolo 'D2:Diode_SMD:D_SMA'.
+Info: Procesando el símbolo 'L1:Inductor_SMD:L_0402_1005Metric'.
+Info: Procesando el símbolo 'R1:OptoDevice:R_LDR_D6.4mm_P3.4mm_Vertical'.
+Info: Procesando el símbolo 'R3:Potentiometer_THT:Potentiometer_Bourns_3386W_Horizontal'.
+Info: Procesando el símbolo 'U1:Package_TO_SOT_SMD:TO-263-5_TabPin3'.
+Agregado C4 (huella 'Capacitor_SMD:C_Elec_4x5.8').
+Indicador de referencia cambiado de REF** a C4.
+Valor C4 cambiado de C_Elec_4x5.8 a C.
+Asociación de símbolos C4 actualizada de  a /181fa942-45c7-498b-9030-5564eacbaa68.
+Actualizar campos C4.
+Se actualizó el nombre de la hoja C4 a 'Raíz'.
+Se actualizó el archivo de hoja C4 a 'Ejercicio1.kicad_sch'.
+Se actualizaron los filtros de huella de C4 a 'C_*'.
+C4 pin 1 conectado a Net-(U1-FB).
+C4 pin 2 conectado a Net-(C3-Pad1).
+Agregado R3 (huella 'Potentiometer_THT:Potentiometer_Bourns_3386W_Horizontal').
+Indicador de referencia cambiado de REF** a R3.
+Valor R3 cambiado de Potentiometer_Bourns_3386W_Horizontal a R_Variable.
+Asociación de símbolos R3 actualizada de  a /51115211-ab1d-4016-ab8b-995b0f803692.
+Actualizar campos R3.
+Se actualizó el nombre de la hoja R3 a 'Raíz'.
+Se actualizó el archivo de hoja R3 a 'Ejercicio1.kicad_sch'.
+Se actualizaron los filtros de huella de R3 a 'R_*'.
+R3 pin 2 conectado a Net-(U1-FB).
+R3 pin 1 conectado a Net-(C3-Pad1).
+Aviso: No se encontró red para el componente R3 pad 3 (no hay pin 3 en el símbolo).
+
+
+Info: Número de avisos: 1, errores: 0.
