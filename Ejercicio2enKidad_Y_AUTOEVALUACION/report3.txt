@@ -1,0 +1,96 @@
+Info: Procesando el símbolo 'BT1:Battery:BatteryHolder_Keystone_1042_1x18650'.
+Info: Procesando el símbolo 'U2:footprints:PG-TO220-3_INF'.
+Info: Procesando el símbolo 'SW2:Button_Switch_SMD:Nidec_Copal_CAS-120A'.
+Info: Procesando el símbolo 'SW1:Button_Switch_SMD:Nidec_Copal_CAS-120A'.
+Info: Procesando el símbolo 'U1:footprints:PG-TO220-3_INF'.
+Info: Procesando el símbolo 'M1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'U3:footprints:PG-TO220-3_INF'.
+Info: Procesando el símbolo 'U4:footprints:PG-TO220-3_INF'.
+Valor BT1 cambiado de BatteryHolder_Keystone_1042_1x18650 a Battery.
+Asociación de símbolos BT1 actualizada de  a /433accc0-0388-42da-8a0c-039af130ca3e.
+Actualizar campos BT1.
+Se actualizó el nombre de la hoja BT1 a 'Raíz'.
+Se actualizó el archivo de hoja BT1 a 'Ejercicio2.kicad_sch'.
+BT1 pin 1 conectado a Net-(BT1-+).
+BT1 pin 2 conectado a Net-(BT1--).
+Agregado M1 (huella 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a M1.
+Valor M1 cambiado de PinHeader_1x02_P2.54mm_Vertical a Motor_DC.
+Asociación de símbolos M1 actualizada de  a /7ff949d9-3b13-4e30-9cae-8fd74306a8d5.
+Actualizar campos M1.
+Se actualizó el nombre de la hoja M1 a 'Raíz'.
+Se actualizó el archivo de hoja M1 a 'Ejercicio2.kicad_sch'.
+Se actualizaron los filtros de huella de M1 a 'PinHeader*P2.54mm* TerminalBlock*'.
+M1 pin 2 conectado a Net-(M1--).
+M1 pin 1 conectado a Net-(M1-+).
+Agregado SW1 (huella 'Button_Switch_SMD:Nidec_Copal_CAS-120A').
+Indicador de referencia cambiado de REF** a SW1.
+Valor SW1 cambiado de Nidec_Copal_CAS-120A a SW_Nidec_CAS-120A1.
+Asociación de símbolos SW1 actualizada de  a /803fda20-0e8d-45a2-86b4-fc9b9b0b1c2a.
+Actualizar campos SW1.
+Se actualizó el nombre de la hoja SW1 a 'Raíz'.
+Se actualizó el archivo de hoja SW1 a 'Ejercicio2.kicad_sch'.
+Se actualizaron los filtros de huella de SW1 a '*Nidec?Copal?CAS?120A*'.
+SW1 pin 3 conectado a Net-(BT1--).
+SW1 pin 2 conectado a Net-(SW1-B).
+SW1 pin 1 conectado a Net-(BT1-+).
+Agregado SW2 (huella 'Button_Switch_SMD:Nidec_Copal_CAS-120A').
+Valor SW2 cambiado de Nidec_Copal_CAS-120A a SW_Nidec_CAS-120A1.
+Asociación de símbolos SW2 actualizada de  a /9f08d2fc-da91-4b78-8657-a39be3c40979.
+Actualizar campos SW2.
+Se actualizó el nombre de la hoja SW2 a 'Raíz'.
+Se actualizó el archivo de hoja SW2 a 'Ejercicio2.kicad_sch'.
+Se actualizaron los filtros de huella de SW2 a '*Nidec?Copal?CAS?120A*'.
+SW2 pin 1 conectado a Net-(BT1--).
+SW2 pin 3 conectado a Net-(BT1-+).
+SW2 pin 2 conectado a Net-(SW2-B).
+Indicador de referencia cambiado de REF** a SW2.
+Indicador de referencia cambiado de REF** a U1.
+Valor U1 cambiado de PG-TO220-3_INF a IRFZ44NPBF.
+Asociación de símbolos U1 actualizada de  a /07f96930-b3dd-4019-b723-3eb2cb29d9e2.
+Actualizar campos U1.
+Se actualizó el nombre de la hoja U1 a 'Raíz'.
+Se actualizó el archivo de hoja U1 a 'Ejercicio2.kicad_sch'.
+Se actualizaron los filtros de huella de U1 a 'PG-TO220-3_INF'.
+U1 pin 3 conectado a Net-(BT1-+).
+U1 pin 2 conectado a Net-(M1--).
+U1 pin 1 conectado a Net-(SW1-B).
+Agregado U1 (huella 'footprints:PG-TO220-3_INF').
+Agregado U2 (huella 'footprints:PG-TO220-3_INF').
+Indicador de referencia cambiado de REF** a U2.
+Valor U2 cambiado de PG-TO220-3_INF a IRFZ44NPBF.
+Asociación de símbolos U2 actualizada de  a /b8c6f26c-70f9-481f-a010-dc544de675ac.
+Actualizar campos U2.
+Se actualizó el nombre de la hoja U2 a 'Raíz'.
+Se actualizó el archivo de hoja U2 a 'Ejercicio2.kicad_sch'.
+Se actualizaron los filtros de huella de U2 a 'PG-TO220-3_INF'.
+U2 pin 2 conectado a Net-(BT1--).
+U2 pin 1 conectado a Net-(SW2-B).
+U2 pin 3 conectado a Net-(M1--).
+Agregado BT1 (huella 'Battery:BatteryHolder_Keystone_1042_1x18650').
+Indicador de referencia cambiado de REF** a BT1.
+Indicador de referencia cambiado de REF** a U3.
+Valor U3 cambiado de PG-TO220-3_INF a IRFZ44NPBF.
+Asociación de símbolos U3 actualizada de  a /75716223-2a23-47b8-85ea-20c73a6d4014.
+Actualizar campos U3.
+Se actualizó el nombre de la hoja U3 a 'Raíz'.
+Se actualizó el archivo de hoja U3 a 'Ejercicio2.kicad_sch'.
+Se actualizaron los filtros de huella de U3 a 'PG-TO220-3_INF'.
+U3 pin 1 conectado a Net-(SW2-B).
+U3 pin 3 conectado a Net-(BT1-+).
+U3 pin 2 conectado a Net-(M1-+).
+Agregado U3 (huella 'footprints:PG-TO220-3_INF').
+Agregado U4 (huella 'footprints:PG-TO220-3_INF').
+Indicador de referencia cambiado de REF** a U4.
+Valor U4 cambiado de PG-TO220-3_INF a IRFZ44NPBF.
+Asociación de símbolos U4 actualizada de  a /edd1ea2b-fddb-407d-bbf1-3c8626c990ab.
+Actualizar campos U4.
+Se actualizó el nombre de la hoja U4 a 'Raíz'.
+Se actualizó el archivo de hoja U4 a 'Ejercicio2.kicad_sch'.
+Se actualizaron los filtros de huella de U4 a 'PG-TO220-3_INF'.
+U4 pin 1 conectado a Net-(SW1-B).
+U4 pin 2 conectado a Net-(BT1--).
+U4 pin 3 conectado a Net-(M1-+).
+
+
+Info: Número de avisos: 0, errores: 0.

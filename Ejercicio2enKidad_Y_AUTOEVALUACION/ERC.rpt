@@ -1,0 +1,129 @@
+Informe de ERC (2024-04-22T11:20:12-0400, codificación UTF8)
+
+***** Hoja /
+[pin_to_pin]: Pines del tipo No especificado y Pasivo están conectados
+    ; warning
+    @(5350.00 mils, 4200.00 mils): Symbol U2 Pin 3 [D, No especificado, Línea]
+    @(5100.00 mils, 3550.00 mils): Symbol D2 Pin 1 [K, Pasivo, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(5250.00 mils, 4700.00 mils): Symbol D1 Pin 2 [A, Pasivo, Línea]
+    @(5350.00 mils, 4300.00 mils): Symbol U2 Pin 2 [S, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(7200.00 mils, 3550.00 mils): Symbol D3 Pin 1 [K, Pasivo, Línea]
+    @(7250.00 mils, 4150.00 mils): Symbol U4 Pin 3 [D, No especificado, Línea]
+[pin_to_pin]: Pines del tipo No especificado y Pasivo están conectados
+    ; warning
+    @(5350.00 mils, 2600.00 mils): Symbol U1 Pin 2 [S, No especificado, Línea]
+    @(5100.00 mils, 3250.00 mils): Symbol D2 Pin 2 [A, Pasivo, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(6000.00 mils, 3300.00 mils): Symbol M1 Pin 2 [-, Pasivo, Línea]
+    @(5350.00 mils, 4200.00 mils): Symbol U2 Pin 3 [D, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(6500.00 mils, 3300.00 mils): Symbol M1 Pin 1 [+, Pasivo, Línea]
+    @(7250.00 mils, 4150.00 mils): Symbol U4 Pin 3 [D, No especificado, Línea]
+[pin_to_pin]: Pines del tipo No especificado y Pasivo están conectados
+    ; warning
+    @(7200.00 mils, 2600.00 mils): Symbol U3 Pin 3 [D, No especificado, Línea]
+    @(2550.00 mils, 3350.00 mils): Symbol BT1 Pin 1 [+, Pasivo, Línea]
+[pin_to_pin]: Pines del tipo No especificado y Pasivo están conectados
+    ; warning
+    @(7200.00 mils, 2600.00 mils): Symbol U3 Pin 3 [D, No especificado, Línea]
+    @(9950.00 mils, 2400.00 mils): Symbol SW2 Pin 3 [A, Pasivo, Línea]
+[pin_to_pin]: Pines del tipo No especificado y Pasivo están conectados
+    ; warning
+    @(7200.00 mils, 2600.00 mils): Symbol U3 Pin 3 [D, No especificado, Línea]
+    @(3150.00 mils, 2400.00 mils): Symbol SW1 Pin 1 [C, Pasivo, Línea]
+[pin_to_pin]: Pines del tipo No especificado y No especificado están conectados
+    ; warning
+    @(7200.00 mils, 2600.00 mils): Symbol U3 Pin 3 [D, No especificado, Línea]
+    @(5350.00 mils, 2500.00 mils): Symbol U1 Pin 3 [D, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(5250.00 mils, 5000.00 mils): Symbol D1 Pin 1 [K, Pasivo, Línea]
+    @(3750.00 mils, 2500.00 mils): Symbol U1 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(5250.00 mils, 5000.00 mils): Symbol D1 Pin 1 [K, Pasivo, Línea]
+    @(8850.00 mils, 4150.00 mils): Symbol U4 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(9950.00 mils, 2600.00 mils): Symbol SW2 Pin 1 [C, Pasivo, Línea]
+    @(3750.00 mils, 2500.00 mils): Symbol U1 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(9950.00 mils, 2600.00 mils): Symbol SW2 Pin 1 [C, Pasivo, Línea]
+    @(8850.00 mils, 4150.00 mils): Symbol U4 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(9950.00 mils, 2400.00 mils): Symbol SW2 Pin 3 [A, Pasivo, Línea]
+    @(5350.00 mils, 2500.00 mils): Symbol U1 Pin 3 [D, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(9550.00 mils, 2500.00 mils): Symbol SW2 Pin 2 [B, Pasivo, Línea]
+    @(3750.00 mils, 4200.00 mils): Symbol U2 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo No especificado y Pasivo están conectados
+    ; warning
+    @(7200.00 mils, 2700.00 mils): Symbol U3 Pin 2 [S, No especificado, Línea]
+    @(7200.00 mils, 3250.00 mils): Symbol D3 Pin 2 [A, Pasivo, Línea]
+[pin_to_pin]: Pines del tipo No especificado y Pasivo están conectados
+    ; warning
+    @(8800.00 mils, 2600.00 mils): Symbol U3 Pin 1 [G, No especificado, Línea]
+    @(9550.00 mils, 2500.00 mils): Symbol SW2 Pin 2 [B, Pasivo, Línea]
+[pin_to_pin]: Pines del tipo No especificado y No especificado están conectados
+    ; warning
+    @(8800.00 mils, 2600.00 mils): Symbol U3 Pin 1 [G, No especificado, Línea]
+    @(3750.00 mils, 4200.00 mils): Symbol U2 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(7250.00 mils, 4950.00 mils): Symbol D4 Pin 1 [K, Pasivo, Línea]
+    @(3750.00 mils, 2500.00 mils): Symbol U1 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(7250.00 mils, 4950.00 mils): Symbol D4 Pin 1 [K, Pasivo, Línea]
+    @(8850.00 mils, 4150.00 mils): Symbol U4 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(7250.00 mils, 4650.00 mils): Symbol D4 Pin 2 [A, Pasivo, Línea]
+    @(7250.00 mils, 4250.00 mils): Symbol U4 Pin 2 [S, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(2550.00 mils, 3750.00 mils): Symbol BT1 Pin 2 [-, Pasivo, Línea]
+    @(3750.00 mils, 2500.00 mils): Symbol U1 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(2550.00 mils, 3750.00 mils): Symbol BT1 Pin 2 [-, Pasivo, Línea]
+    @(8850.00 mils, 4150.00 mils): Symbol U4 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(2550.00 mils, 3350.00 mils): Symbol BT1 Pin 1 [+, Pasivo, Línea]
+    @(5350.00 mils, 2500.00 mils): Symbol U1 Pin 3 [D, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(3150.00 mils, 2400.00 mils): Symbol SW1 Pin 1 [C, Pasivo, Línea]
+    @(5350.00 mils, 2500.00 mils): Symbol U1 Pin 3 [D, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(3550.00 mils, 2500.00 mils): Symbol SW1 Pin 2 [B, Pasivo, Línea]
+    @(3750.00 mils, 2500.00 mils): Symbol U1 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(3550.00 mils, 2500.00 mils): Symbol SW1 Pin 2 [B, Pasivo, Línea]
+    @(8850.00 mils, 4150.00 mils): Symbol U4 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo No especificado y No especificado están conectados
+    ; warning
+    @(3750.00 mils, 2500.00 mils): Symbol U1 Pin 1 [G, No especificado, Línea]
+    @(8850.00 mils, 4150.00 mils): Symbol U4 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(3150.00 mils, 2600.00 mils): Symbol SW1 Pin 3 [A, Pasivo, Línea]
+    @(3750.00 mils, 2500.00 mils): Symbol U1 Pin 1 [G, No especificado, Línea]
+[pin_to_pin]: Pines del tipo Pasivo y No especificado están conectados
+    ; warning
+    @(3150.00 mils, 2600.00 mils): Symbol SW1 Pin 3 [A, Pasivo, Línea]
+    @(8850.00 mils, 4150.00 mils): Symbol U4 Pin 1 [G, No especificado, Línea]
+
+**Mensajes ERC: 31. Errores0, Avisos 31
