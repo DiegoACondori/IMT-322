@@ -1,4 +1,3 @@
-
 #define Rojo 5
 #define Amarillo 6
 #define Verde 7
@@ -18,7 +17,6 @@ pinMode (Amarillo, OUTPUT);
 pinMode (Verde, OUTPUT);
 
 }
-void
 void loop() {
   // put your main code here, to run repeatedly:
 switch (estadoSemaforo) {
